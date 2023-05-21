@@ -1,4 +1,4 @@
-<p align="center"><a href="https://github.com/EatDev"><img src="https://cdn.discordapp.com/avatars/859094822391513088/7f4522ba4cb7ff6f59f6cc97d26e4778.png" alt="Gray shape shifter" height="120"/></a></p>
+<p align="center"><a href="https://github.com/gamerdave08"><img src="https://cdn.discordapp.com/avatars/859094822391513088/7f4522ba4cb7ff6f59f6cc97d26e4778.png" alt="Gray shape shifter" height="120"/></a></p>
 <h1 align="center">_David_</h1>
 <p align="center">A passionate frontend/backend developer from Germany.</p>
 <p align="center">
@@ -9,7 +9,7 @@
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="mysql" width="40" height="40"/> </a> <a href="" target="_blank" rel="noreferrer">
-<p align="center"><a href="https://github.com/NorthDevelopment/NorthClient"></a><a href="#nastyox"><img src="http://randojs.com/images/dropShadow.png" width="75%"/></a></p><br/>
+<p align="center"><a href="https://github.com/gamerdave08t"></a><a href="#nastyox"><img src="http://randojs.com/images/dropShadow.png" width="75%"/></a></p><br/>
 
 ## :star: My Projekts
 <!-- - DDos tool was Developt by _David_.  -->
@@ -37,10 +37,10 @@
 - [My Discord](https://discord.com/users/859094822391513088)
 <br/><br/><br/>
 ## 💰 If u want to Support me
-<a href="https://paypal.me/gamerdave08"> <img align="left" src="https://www.paypalobjects.com/digitalassets/c/website/logo/full-text/pp_fc_hl.svg" height="50" width="210" alt="eatdev" /></a><br/>
+<a href="https://paypal.me/gamerdave08"> <img align="left" src="https://www.paypalobjects.com/digitalassets/c/website/logo/full-text/pp_fc_hl.svg" height="50" width="210" alt="_David_" /></a><br/>
 
 
 <br/>
-<p align="center"><a href="https://github.com/EatDev"><img src="http://randojs.com/images/barsSmallTransparentBackground.gif" alt="Animated footer bars" width="100%"/></a></p>
+<p align="center"><a href="https://github.com/gamerdave08"><img src="http://randojs.com/images/barsSmallTransparentBackground.gif" alt="Animated footer bars" width="100%"/></a></p>
 <br/>
-<p align="center"><a href="https://github.com/EatDev"><img src="http://randojs.com/images/backToTopButtonTransparentBackground.png" alt="Back to top" height="29"/></a></p>
+<p align="center"><a href="https://github.com/gamerdave08"><img src="http://randojs.com/images/backToTopButtonTransparentBackground.png" alt="Back to top" height="29"/></a></p>
