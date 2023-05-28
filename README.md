@@ -1,4 +1,4 @@
-<p align="center"><a href="https://github.com/gamerdave08"><img src="https://cdn.discordapp.com/avatars/859094822391513088/7f4522ba4cb7ff6f59f6cc97d26e4778.png" alt="Gray shape shifter" height="120"/></a></p>
+<p align="center"><a href="https://github.com/davidpr0811"><img src="https://cdn.discordapp.com/avatars/859094822391513088/7f4522ba4cb7ff6f59f6cc97d26e4778.png" alt="Gray shape shifter" height="120"/></a></p>
 <h1 align="center">_David_</h1>
 <p align="center">A passionate frontend/backend developer from Germany.</p>
 <p align="center">
@@ -10,7 +10,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" height="40"/> </a> <a href="" target="_blank" rel="noreferrer">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="" target="_blank" rel="noreferrer">
-<p align="center"><a href="https://github.com/gamerdave08t"></a><a href="#nastyox"><img src="http://randojs.com/images/dropShadow.png" width="75%"/></a></p><br/>
+<p align="center"><a href="https://github.com/davidpr0811"></a><a href="#nastyox"><img src="http://randojs.com/images/dropShadow.png" width="75%"/></a></p><br/>
 
 ## :star: My Projekts
 <!-- - DDos tool was Developt by _David_.  -->
@@ -20,16 +20,16 @@
 <br/><br/><br/>
 
 ## :hear_no_evil:  How i am?  
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gamerdave08&show_icons=true&locale=en" alt="gamerdave08" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=davidpr0811&show_icons=true&locale=en" alt="davidpr0811" /></p>
 <br/><br/><br/>
 
 ## :zap:  My Streak
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gamerdave08" alt="gamerdave08" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=davidpr0811" alt="davidpr0811" /></p>
 
   
 <br/><br/><br/>
 ## :tada:  GitHub Trophies:
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gamerdave08" alt="gamerdave08" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=davidpr0811" alt="davidpr0811" /></a> </p>
 <br/><br/><br/>
 
 ## :clap:  Contact Me
@@ -42,6 +42,6 @@
 
 
 <br/>
-<p align="center"><a href="https://github.com/gamerdave08"><img src="http://randojs.com/images/barsSmallTransparentBackground.gif" alt="Animated footer bars" width="100%"/></a></p>
+<p align="center"><a href="https://github.com/davidpr0811"><img src="http://randojs.com/images/barsSmallTransparentBackground.gif" alt="Animated footer bars" width="100%"/></a></p>
 <br/>
-<p align="center"><a href="https://github.com/gamerdave08"><img src="http://randojs.com/images/backToTopButtonTransparentBackground.png" alt="Back to top" height="29"/></a></p>
+<p align="center"><a href="https://github.com/davidpr0811"><img src="http://randojs.com/images/backToTopButtonTransparentBackground.png" alt="Back to top" height="29"/></a></p>
