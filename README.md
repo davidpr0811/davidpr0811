@@ -1,47 +1,73 @@
-<p align="center"><a href="https://github.com/davidpr0811"><img src="https://cdn.discordapp.com/avatars/859094822391513088/7f4522ba4cb7ff6f59f6cc97d26e4778.png" alt="Gray shape shifter" height="120"/></a></p>
-<h1 align="center">_David_</h1>
-<p align="center">A passionate frontend/backend developer from Germany.</p>
-<p align="center">
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" height="40"/> </a> <a href="" target="_blank" rel="noreferrer">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="" target="_blank" rel="noreferrer">
-<p align="center"><a href="https://github.com/davidpr0811"></a><a href="#nastyox"><img src="http://randojs.com/images/dropShadow.png" width="75%"/></a></p><br/>
+# <div align="center">Hi, I'm David 👋</div>
 
-## :star: My Projekts
-<!-- - DDos tool was Developt by _David_.  -->
-- CE MAIN BOT was Developt by _David_.
-
-
-<br/><br/><br/>
-
-## :hear_no_evil:  How i am?  
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=davidpr0811&show_icons=true&locale=en" alt="davidpr0811" /></p>
-<br/><br/><br/>
-
-## :zap:  My Streak
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=davidpr0811" alt="davidpr0811" /></p>
-
+<div align="center">
+  <p>Full Stack Developer from Germany passionate about creating impactful solutions</p>
   
-<br/><br/><br/>
-## :tada:  GitHub Trophies:
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=davidpr0811" alt="davidpr0811" /></a> </p>
-<br/><br/><br/>
+  [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/859094822391513088)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:david@north-mail.eu)
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/gamerdave08)
+</div>
 
-## :clap:  Contact Me
-- [Discord Support](https://discord.com/users/859094822391513088)<br/>
-- [Mail Me](mailto:david@north-mail.eu)<br/>
-- [My Discord](https://discord.com/users/859094822391513088)
-<br/><br/><br/>
-## 💰 If u want to Support me
-<a href="https://paypal.me/gamerdave08"> <img align="left" src="https://www.paypalobjects.com/digitalassets/c/website/logo/full-text/pp_fc_hl.svg" height="50" width="210" alt="_David_" /></a><br/>
+## 💻 Tech Stack
 
+<div align="center">
+  
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  
+  ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+  ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+</div>
 
-<br/>
-<p align="center"><a href="https://github.com/davidpr0811"><img src="http://randojs.com/images/barsSmallTransparentBackground.gif" alt="Animated footer bars" width="100%"/></a></p>
-<br/>
-<p align="center"><a href="https://github.com/davidpr0811"><img src="http://randojs.com/images/backToTopButtonTransparentBackground.png" alt="Back to top" height="29"/></a></p>
+## 🚀 Featured Projects
+
+<div align="center">
+  
+  [![CE Main Bot](https://img.shields.io/badge/CE%20Main%20Bot-Discord%20Bot-7289DA?style=for-the-badge&logo=discord&logoColor=white)](#)
+  [![DDos Tool](https://img.shields.io/badge/DDos%20Tool-Network%20Testing-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/davidpr0811/ddos-tool)
+  [![NorthClient](https://img.shields.io/badge/NorthClient-Management%20Panel-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NexelionSystems/NorthClient)
+</div>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=davidpr0811&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=davidpr0811&theme=tokyonight" alt="GitHub Streak" />
+</div>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=davidpr0811&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</div>
+
+## 📫 Let's Connect
+
+<div align="center">
+  <p>Looking for a skilled developer for your next project? Let's talk!</p>
+  
+  [![Discord](https://img.shields.io/badge/Discord-Chat%20with%20me-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/859094822391513088)
+  [![Email](https://img.shields.io/badge/Email-Contact%20me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:david@north-mail.eu)
+</div>
+
+---
+
+<div align="center">
+  <p>💖 Support my work</p>
+  
+  [![PayPal](https://img.shields.io/badge/PayPal-Donate-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/gamerdave08)
+</div>
+
+<div align="center">
+  <a href="#top">
+    <img src="https://img.shields.io/badge/Back%20to%20Top-⬆️-gray?style=for-the-badge" alt="Back to Top" />
+  </a>
+</div>
