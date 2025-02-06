@@ -6,6 +6,8 @@
   [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/859094822391513088)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:david@north-mail.eu)
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/gamerdave08)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-%2300A859?style=for-the-badge&logo=github&logoColor=white)](https://resilient-chaja-d0f9cf.netlify.app/)
+
 </div>
 
 ## 💻 Tech Stack
