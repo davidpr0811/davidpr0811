@@ -53,7 +53,6 @@
 <div align="center">
   <p>Looking for a skilled developer for your next project? Let's talk!</p>
   
-  [![Discord](https://img.shields.io/badge/Discord-Chat%20with%20me-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/859094822391513088)
   [![Email](https://img.shields.io/badge/Email-Contact%20me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:david635883@proton.me)
 </div>
 
